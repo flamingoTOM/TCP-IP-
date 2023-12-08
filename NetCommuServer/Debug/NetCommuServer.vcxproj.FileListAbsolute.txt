@@ -1,0 +1,2 @@
+E:\CPLUS\NetCommuServer\Debug\NetCommuServer.exe
+E:\CPLUS\NetCommuServer\Debug\NetCommuServer.pdb

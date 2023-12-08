@@ -1,0 +1,2 @@
+E:\CPLUS\NetCommuClient\Debug\NetCommuClient.exe
+E:\CPLUS\NetCommuClient\Debug\NetCommuClient.pdb
