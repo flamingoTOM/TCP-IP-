@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CClientItem.cpp
+  NetCommuServer.cpp
+  NetCommuServerDlg.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  NetCommuServer.vcxproj -> F:\360MoveData\Users\admin\Desktop\实验五——网络通信VS2019\NetCommuServer\Release\NetCommuServer.exe
